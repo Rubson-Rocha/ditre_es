@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ditre-es",
+  "private_key_id": "58e888c2a2accf6a7885ecb0a8b28adfe85a91ca",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwYh4w7ZjTTnNo\nACAjgpF2hrU8L5XO8pTvtTr5ti+foMFuWkNsWoJyIRNoCVJ27HwPf3vHTpB4yk49\nSaRCQUokFMRJiNQVEJpwUPmr1WJz75Bw3KQQuSL0PIVAg3Lxk7XEKbxS8mYLX2Ml\ngmUEuIMfBi+oX+osht+qQWBLGsqsh+vT8B4jCmR5M5qiEUXWa4sFQBJQar2ssBnJ\nboq/N9bxkybC1vXIZEEZjri0+6PYKV8f6ylcowT8UPk8GpXJ9GPhdhLPzMeS6nhR\ndD/yW3w285TAbFBpAn1xjBQrdSeeMU41+tiwIlrQxUVD5yj6sYmIjVO8b6RqALAV\nwZWIk/RbAgMBAAECggEAH1eYEM6viODYXgMjstupOHwQaVz1TFxLvdqg262VgdKB\nfLf6Yh8lLd2VwrdhWXOFSgW3u39I6cXdKEPVNda/M3EjPgPb19Bm+Q1SiEe3Im3P\n51Y1qykSvn6gmQmim63JL03RQpYDLwMorYohpDibSCCDyHIevQHMbccHMuFUYVrM\nJkYDemKzMl26gQ1u4rLhg24+0Cj4CS3n0U6/BiDO8I34Cyj8HO0n3+L5VpKJyYQe\nAf8GXvX+7ODE4WkY+7h9ypYI81Oj9isAYlkWV1hd0709IpWm+lltts3ik8noAjWa\nDf6eV/BZNxR3WXKmXeY/LjfxALeVZGKUFhJcHHECEQKBgQDdbhxpzQb7qEOURvUY\nM1M6pSBz9QFwKz9bo2vPVQ3husN++UIIttfMklgKYE4zEeZvQeodykj4y+sBJiOJ\nPFAce+dZCKEtTlEYMy7P9WLUOtTsoRKYGX7JAbi8SDvaCpX4hzx7suH/FsqxqHYO\nyxtNrTVHvYbMRMBtr1c3V3KfcQKBgQDL658PrS6U7E7IxqxJmKLmRNklxdh3FS07\n3PMbJv0DPfrC7BriA1/3bGiyoJvNbjYyjKJeU3ZJdS2T4nAfDkY26G+CaBIsWPS5\nPVVe64jQsc4/IwPosc/2KPvncSqwYB7q5jlneUjn/SpCOp5sfPl+wET+c21al373\nPN6K7mCCiwKBgQCusiW2jyxYNYuDm2vY+P1MAmUVNxI4ZdZpvQfcnpUCJy//qDWh\n3GdrHXZaUVrAzfmIg29qq2Jg77jrwiQ9LJljr5l5U+adcPFn71GaflXHbNb6DaY2\n2758ZWBTI4Yc40coucFNMnc8osWt3mOuDi3vXZzwiaWk2QUcRD7CCbsD8QKBgCms\nODBK8vcKJ7uOJk1P/RJTxZCbkvYbBMh0CdZlrFUKSIGnIINJr0XwCKFggxaDTF4e\nMVxXcBfo82yCXOlr0FuOOqOKwxP/BdwJNbYVKjuD6qMqc7UNCXPDwl702IV8zzSv\n4dFMjuKh8Q3hztha3d3SSwc47YMS7KZ38P6xYlWrAoGAFWp/0QM4LJYoX9r8mLGR\nemNoxjwkMAi57jmmkD9O9e5OWUGUF8Rp+iPlT33dcKegRxMXL4hV6mfd8mW+VYfY\nyyZIJtO39a7b5y2vCvD1f+nY9pJk3eVvJwCDHngDeKksRuON7goyx40M7hvcV1Ca\nuAfVwYppdrgJuties7EPNCY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "convenios-ditre-es@ditre-es.iam.gserviceaccount.com",
+  "client_id": "105727965070637991456",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/convenios-ditre-es%40ditre-es.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
